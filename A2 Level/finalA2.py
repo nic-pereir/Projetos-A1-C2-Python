@@ -1,5 +1,4 @@
-tasks = []
-
+tasks = list()
 
 def show_menu():
     print("=" * 30)
